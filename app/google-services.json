@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "270836476321",
+    "project_id": "tranlator-c217a",
+    "storage_bucket": "tranlator-c217a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:270836476321:android:0ae40c3626a2d30d2d43e0",
+        "android_client_info": {
+          "package_name": "com.example.languagetranslater"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDfZyo7dSHCem-PbOQraeB16fdNJE4FX0Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:270836476321:android:79358fa61dfcb26f2d43e0",
+        "android_client_info": {
+          "package_name": "com.example.translator"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDfZyo7dSHCem-PbOQraeB16fdNJE4FX0Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
